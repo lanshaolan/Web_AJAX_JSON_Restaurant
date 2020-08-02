@@ -8,7 +8,7 @@ $border: 1px solid rgba(0, 0, 0, 0.3);
 }
 
 body {
-    background: #d9d9d9;
+    background: #e9e9e9;
 }
 
 .title {
@@ -22,6 +22,7 @@ body {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 30px;
+    padding: 15px;
 
     #box {
         box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
